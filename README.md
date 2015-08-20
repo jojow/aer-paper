@@ -1,4 +1,4 @@
-# aer-paper
+# Supplementary Material for AER Paper
 
 Supplementary material for the paper "Enabling DevOps Collaboration and Continuous Delivery Using Diverse Application Environments"
 
