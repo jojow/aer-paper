@@ -22,7 +22,7 @@ We consider *application environment requirements (AERs)* as a specific class an
 
 ## AER Classification
 
-In our introduction of the concept of AERs we already saw their environment-specific nature: an AER may be relevant for a single or multiple environments.
+First of all, an AER may be relevant for a single or multiple environments (development, test, production, etc.).
 Thus, AERs can be classified according to the **(i) environment** dimension, i.e., which environments they target.
 In addition, we identified another orthogonal categorization of AERs, namely *application-specific* and *common* AERs such as requirements that are not bound to the application but bound to a specific organizational unit; these may appear on different levels, such as a company, a department, or a team.
 This is the **(ii) scope** dimension for AERs.
