@@ -20,6 +20,22 @@ We consider *application environment requirements (AERs)* as a specific class an
 
 
 
+## AER Classification
+
+In our introduction of the concept of AERs we already saw their environment-specific nature: an AER may be relevant for a single or multiple environments.
+Thus, AERs can be classified according to the **(i) environment** dimension, i.e., which environments they target.
+In addition, we identified another orthogonal categorization of AERs, namely *application-specific* and *common* AERs such as requirements that are not bound to the application but bound to a specific organizational unit; these may appear on different levels, such as a company, a department, or a team.
+This is the **(ii) scope** dimension for AERs.
+Finally, the **(iii) type** dimension characterizes AERs on a technical level by considering multiple sub-dimensions such as:
+
+* Inclusive requirement *(e.g., environment must use Git)* vs. exclusive requirement *(e.g., environment must not use Subversion)*
+* Immediately required *(e.g., environment must contain a PHP runtime)* vs. eventually required *(e.g., environment must be eventually hosted on an Ubuntu OS)*
+* Existence *(e.g., environment requires a PHP runtime)* vs. property-value match *(e.g., environment requires PHP version 5.5 or better)*
+
+Example: the AER *Web shop development environment requires Git version 2.1.3* is an *inclusive, immediate,* and *property-value match* type of requirement, scoped to the Web application, and relevant for development environments only.
+
+
+
 ## Knowledge Base
 
 Our approach to resolve AERs that are attached to unresolved topologies based on a knowledge base is outlined in the following:
