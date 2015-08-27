@@ -38,7 +38,7 @@ Example: the AER *Web shop development environment requires Git version 2.1.3* i
 
 ## Knowledge Base
 
-Our approach to resolve AERs that are attached to unresolved topologies based on a knowledge base is outlined in the following:
+Our approach to resolve AERs (attached to unresolved topologies) based on a knowledge base is outlined in the following:
 
 ![Knowledge Base](/knowledgebase.png)
 
@@ -49,3 +49,9 @@ Our approach to resolve AERs that are attached to unresolved topologies based on
 The knowledge base is structured an centered around multiple taxonomies (Middleware, Infrastructure, Supplementware, etc.) to categorize the solutions and implementations it contains:
 
 ![Knowledge Base Model](/knowledgebase_model.png)
+
+
+
+## Evaluation
+
+Based on the Web shop application, we conducted an [evaluation](evaluation.pdf) to show that AERs can be resolved using the knowledge base to create topologies, which are then used to establish diverse application environments.
