@@ -54,4 +54,4 @@ The knowledge base is structured an centered around multiple taxonomies (Middlew
 
 ## Evaluation
 
-Based on the Web shop application, we conducted an [evaluation](evaluation.pdf) to show that AERs can be resolved using the knowledge base to create topologies, which are then used to establish diverse application environments.
+Based on the Web shop application (our motivating scenario and running example), we conducted an [evaluation](evaluation.pdf) to show that AERs can be systematically resolved using the knowledge base to create topologies, which are then utilized to establish diverse application environments.
